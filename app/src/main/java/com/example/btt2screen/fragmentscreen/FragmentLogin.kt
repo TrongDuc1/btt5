@@ -1,14 +1,21 @@
 package com.example.btt2screen.fragmentscreen
 
+import android.annotation.SuppressLint
+import android.content.Intent
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.view.WindowManager
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import com.example.btt2screen.LoginInViewModel
+import com.example.btt2screen.MainActivity
 import com.example.btt2screen.R
 import com.example.btt2screen.databinding.FragmentLoginBinding
 
@@ -64,4 +71,5 @@ class FragmentLogin : Fragment() {
             }
         }
     }
+
 }

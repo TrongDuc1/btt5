@@ -137,6 +137,27 @@
                       </LayoutPositions>
                     </value>
                   </entry>
+                  <entry key="fragmentSplashscreen">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-683" />
+                            <option name="y" value="-367" />
+                          </Point>
+                        </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_fragmentSplashscreen_to_fragmentOnBoardingone">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
                   <entry key="fragmentWellCome">
                     <value>
                       <LayoutPositions>
